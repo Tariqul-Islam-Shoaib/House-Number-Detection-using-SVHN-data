@@ -20,6 +20,7 @@ feature extraction from the visual canvas of images, the RNN
 attuned to harmonize with the complex patterns interwoven in the
 numeric sequences, and the MLP assuming the mantle of the final
 arbiter, clasping the baton to conduct the decisive classification.
+
 ![svhn](https://github.com/user-attachments/assets/a3443ea2-4e1d-4bc4-8abc-972745a79991)
 
 
