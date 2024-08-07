@@ -5,9 +5,9 @@ In the expansive realm of computer vision, the
 accurate identification of house numbers within the intricate
 tapestry of street view images emerges as a paramount pursuit,
 resonating across a panorama of applications. This scholarly
-endeavor unfurls an intricately designed deep learning framework, meticulously tailored to navigate the nuances of this task.
+endeavor unfurls an intricately designed deep learning framework, meticulously tailored to navigate the nuances of this task.
 Through a calculated amalgamation of Convolutional Neural
-Networks (CNN), Recurrent Neural Networks (RNN), and MultiLayer Perceptron (MLP), our proposition fortifies itself against
+Networks (CNN), Recurrent Neural Networks (RNN), and MultiLayer Perceptron (MLP), our proposition fortifies itself against
 the headwinds of challenges like capricious lighting conditions,
 obfuscating impediments, and the kaleidoscope of idiosyncratic
 numerical styles that ensconce these numerals.The architectural
